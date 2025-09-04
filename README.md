@@ -44,22 +44,7 @@ The analysis includes:
 - Enhance new customer acquisition through tailored offers
 
 ---
-
-## 📁 Files Included
-
-- `Customer Lifetime Value (CLV) Analysis.xlsx` – Analysis of customer value over time  
-- `Customer Segmentation.xlsx` – Segmentation by wealth, tenure, and region  
-- `Data Cleaning.xlsx` – Raw data cleaning and preparation steps  
-- `KPMG Final Project Dataset.xlsx` – Original dataset used for analysis  
-- `New Customer Insights.xlsx` – Analysis focusing on new customer acquisition patterns  
-- `Transaction Analysis.xlsx` – Detailed sales and transaction trends
-- `Executive Summary and Recommendations.docx` – Summary of insights and business suggestions  
-
-
----
-
-## 📬 Connect With Me
-
-**Ajay | Data Analyst**  
-🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
+## 🙏 Thank You  
+Thanks for reading!  
+📌 **Connect with me on LinkedIn:** [Ajay Thakur](https://www.linkedin.com/in/ajay-thakur-5158bb186/)  
 
